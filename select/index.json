@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Crown",
+  "base_artist": "Manaka",
+  "createdAt": "2025-12-22T07:57:03.164318Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Heavy Lies The Crown",
+      "artist": "In Fear and Faith",
+      "has_synced": true,
+      "path": "select/01_Heavy_Lies_The_Crown_In_Fear_and_Faith.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Red Crown",
+      "artist": "Liturgy",
+      "has_synced": false,
+      "path": "select/02_Red_Crown_Liturgy.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Jewel in the Crown",
+      "artist": "Mike Oldfield",
+      "has_synced": false,
+      "path": "select/03_Jewel_in_the_Crown_Mike_Oldfield.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Green Manalishi (With the Two Prong Crown)",
+      "artist": "Fleetwood Mac",
+      "has_synced": false,
+      "path": "select/04_The_Green_Manalishi_(With_the_Two_Prong_Crown)_Fleetwood_Mac.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Want My Crown",
+      "artist": "Ry Cooder",
+      "has_synced": false,
+      "path": "select/05_I_Want_My_Crown_Ry_Cooder.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Paper Crown",
+      "artist": "Liam Gallagher",
+      "has_synced": true,
+      "path": "select/06_Paper_Crown_Liam_Gallagher.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Crown",
+      "artist": "Arca",
+      "has_synced": true,
+      "path": "select/07_Crown_Arca.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "King Without a Crown",
+      "artist": "ABC",
+      "has_synced": true,
+      "path": "select/08_King_Without_a_Crown_ABC.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "King Without A Crown - Monarchy Mix",
+      "artist": "ABC",
+      "has_synced": false,
+      "path": "select/09_King_Without_A_Crown_-_Monarchy_Mix_ABC.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "King Without A Crown (Monarchy Mix)",
+      "artist": "ABC",
+      "has_synced": false,
+      "path": "select/10_King_Without_A_Crown_(Monarchy_Mix)_ABC.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Paper Crown",
+      "artist": "Black",
+      "has_synced": false,
+      "path": "select/11_Paper_Crown_Black.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Crown",
+      "artist": "Angel Haze",
+      "has_synced": true,
+      "path": "select/12_Crown_Angel_Haze.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Crown of Love",
+      "artist": "Arcade Fire",
+      "has_synced": false,
+      "path": "select/13_Crown_of_Love_Arcade_Fire.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The King Has Lost His Crown",
+      "artist": "ABBA",
+      "has_synced": true,
+      "path": "select/14_The_King_Has_Lost_His_Crown_ABBA.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The King Has Lost His Crown",
+      "artist": "ABBA",
+      "has_synced": true,
+      "path": "select/15_The_King_Has_Lost_His_Crown_ABBA.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "you should see me in a crown",
+      "artist": "Billie Eilish",
+      "has_synced": true,
+      "path": "select/16_you_should_see_me_in_a_crown_Billie_Eilish.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Crown (feat. 7)",
+      "artist": "Manaka",
+      "has_synced": false,
+      "path": "select/pl_01_Crown_(feat._7)_Manaka.txt"
+    }
+  ]
+}
